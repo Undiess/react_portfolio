@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Undiess/react_portfolio/static/css/main.523f09c5.chunk.css",
+    "main.js": "/Undiess/react_portfolio/static/js/main.1079b8d5.chunk.js",
+    "main.js.map": "/Undiess/react_portfolio/static/js/main.1079b8d5.chunk.js.map",
+    "runtime-main.js": "/Undiess/react_portfolio/static/js/runtime-main.6d29939d.js",
+    "runtime-main.js.map": "/Undiess/react_portfolio/static/js/runtime-main.6d29939d.js.map",
+    "static/js/2.5c576b9b.chunk.js": "/Undiess/react_portfolio/static/js/2.5c576b9b.chunk.js",
+    "static/js/2.5c576b9b.chunk.js.map": "/Undiess/react_portfolio/static/js/2.5c576b9b.chunk.js.map",
+    "index.html": "/Undiess/react_portfolio/index.html",
+    "precache-manifest.671ef0a99ef8af59c4eeb451682efa5a.js": "/Undiess/react_portfolio/precache-manifest.671ef0a99ef8af59c4eeb451682efa5a.js",
+    "service-worker.js": "/Undiess/react_portfolio/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/Undiess/react_portfolio/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.5c576b9b.chunk.js.LICENSE.txt": "/Undiess/react_portfolio/static/js/2.5c576b9b.chunk.js.LICENSE.txt",
+    "static/media/IMG_1799.jpg": "/Undiess/react_portfolio/static/media/IMG_1799.6f2ddfab.jpg",
+    "static/media/cpp.png": "/Undiess/react_portfolio/static/media/cpp.f278be79.png",
+    "static/media/css.png": "/Undiess/react_portfolio/static/media/css.bf104c5e.png",
+    "static/media/golfapp.png": "/Undiess/react_portfolio/static/media/golfapp.1b5f300c.png",
+    "static/media/html.png": "/Undiess/react_portfolio/static/media/html.664a8c00.png",
+    "static/media/javascipt.png": "/Undiess/react_portfolio/static/media/javascipt.afb47678.png",
+    "static/media/lodafones.png": "/Undiess/react_portfolio/static/media/lodafones.8af8c7e3.png",
+    "static/media/node.png": "/Undiess/react_portfolio/static/media/node.4b12dd41.png",
+    "static/media/reactlogo.png": "/Undiess/react_portfolio/static/media/reactlogo.14c89a41.png",
+    "static/media/swiftlogo.png": "/Undiess/react_portfolio/static/media/swiftlogo.0d9b16f9.png",
+    "static/media/vuelogo.png": "/Undiess/react_portfolio/static/media/vuelogo.7aabd127.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d29939d.js",
+    "static/js/2.5c576b9b.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.1079b8d5.chunk.js"
+  ]
+}
