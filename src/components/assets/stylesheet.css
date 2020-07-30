@@ -1,0 +1,113 @@
+
+
+.container-fluid{
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 30px;
+    border: 1px;
+    border-bottom-color: mediumblue;
+}
+.textbox{
+    background-color: #f2f2f2
+    ;
+}
+.col-sm{
+    margin: 10px;
+    
+}
+
+.myrow{
+    margin-bottom: 1%;
+    margin-top: 2%;
+}
+
+.innertextbox{
+    padding: 10%;
+    padding-top: 18%;
+    font-size: large;
+}
+#namecolor{
+    color:  #ff8c1a
+    ;
+}
+.btn{
+    color:  white;
+    background-color:  #3399ff;
+}
+
+#portrait{
+    max-width: 140%;
+}
+
+    
+
+
+#golfapp{
+    max-width: 100%;
+}
+
+.bottombox{
+    margin: 0;
+    padding: 0;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+  .cssimage{
+      width: 45%;
+  }
+  .node{
+      width: 110%;
+  }
+  .java{
+      width: 48%;
+  }
+
+  .language-rows{
+      margin-top: 1%;
+      margin-bottom: 8%;
+  }
+  .cpp{
+      width: 52%;
+  }
+
+  .page-footer{
+      background-color: #3399ff;
+      height:5%;
+  }
+
+  .myfooter{
+      margin-left: 55px;
+      margin-right: 55px;
+      border-top: 1px solid grey;
+  }
+
+  .imagebackground{
+      background-image: url("cutcontac6.jpg");
+      background-color: #cccccc;
+      height: 600px;
+  }
+.getintouch{
+    padding-top: 110px;
+    text-align: left;
+    padding-left: 60px;
+    color: white;
+    font-size: 55px;
+    font-family: 'Montserrat', sans-serif;
+}
+.words{
+    color: white;
+    padding-left: 60px;
+}
+.form{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
